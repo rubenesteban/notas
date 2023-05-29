@@ -1,4 +1,4 @@
-Inventory app
+Notas de venta app
 ==================================
 
 Solution code for Android Basics with Compose.
